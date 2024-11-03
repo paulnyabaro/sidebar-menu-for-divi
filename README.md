@@ -24,7 +24,7 @@
 
 ### Shortcode
 To display the toggle button for the sidebar, use the following shortcode on any page or post:
-
+`[sidebar_menu_for_divi]`
 
 ### Features
 - **Toggle Button**: Adds a toggle button to show or hide the sidebar menu for Divi.
