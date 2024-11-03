@@ -1,7 +1,7 @@
 #  Sidebar Menu for Divi Plugin
 
 **Plugin Name:**  Sidebar Menu  
-**Author:** [Mind to Matter](https://mind2matter.co/)  
+**Author:** [Paul Nyabaro](https://www.paulnyabaro.com/)  
 **Description:** A WordPress plugin that adds a toggleable sidebar menu to all pages of a Divi website, allowing site visitors to view and hide a sidebar menu.
 
 ## Requirements
@@ -41,4 +41,4 @@ The folder structure for this plugin should look like this:
 
 ## Support
 
-For support or inquiries, please contact the plugin author at [Mind to Matter](https://mind2matter.co/).
+For support or inquiries, please contact the plugin author at [Paul Nyabaro](https://www.paulnyabaro.com/).
